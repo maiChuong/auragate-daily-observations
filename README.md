@@ -25,3 +25,4 @@ The goal is to deliver concise, structured information that highlights key theme
 - For deployment, ensure configuration files are managed securely.
 
 ---
+[Watch demo](https://studio.youtube.com/channel/UCNKuMcEsVBnLqhomdn4I_xw)
