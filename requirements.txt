@@ -1,17 +1,17 @@
 # Core framework
-streamlit==1.32.0
+streamlit>=1.32
 
-# CrewAI orchestration
-crewai==0.22.0
+# CrewAI orchestration (install latest from GitHub)
+git+https://github.com/joaomdmoura/crewai.git
 
-# LLM support (if using OpenAI or Hugging Face models)
-openai==1.12.0
-huggingface-hub==0.20.3
+# LLM support
+openai>=1.13.3,<2.0.0
+huggingface-hub>=0.20.3
 
 # Data handling
-pandas==2.2.1
-numpy==1.26.4
+pandas>=2.2
+numpy>=1.26
 
 # Utilities
-requests==2.31.0
-python-dotenv==1.0.1
+requests>=2.31
+python-dotenv>=1.0
