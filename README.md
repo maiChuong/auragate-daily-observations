@@ -26,3 +26,4 @@ The goal is to deliver concise, structured information that highlights key theme
 
 ---
 [Watch demo](https://studio.youtube.com/channel/UCNKuMcEsVBnLqhomdn4I_xw)
+[Visit demo](https://auragate-daily-observations-by-mai-d-chuong.streamlit.app/)
